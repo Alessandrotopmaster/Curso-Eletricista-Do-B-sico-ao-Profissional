@@ -1,0 +1,14 @@
+# Curso Eletricista — Do Básico ao Profissional
+**Acervo:** Despertar – Biblioteca do Saber  
+**Ecossistema:** Flow Business • Biosoul Energies
+
+## Descrição
+Curso completo em 3 volumes: conceitos simples e regras de segurança, instalações residenciais e técnicas avançadas, além de orientações práticas para abrir sua empresa, captar clientes e receber corretamente. Conteúdo adaptado para celular, com espaço para diagramas, narrações, vídeos e provas — tudo preparado para você aprender e já sair trabalhando.
+
+## Arquivos principais
+- `index.html` — página inicial com acesso aos volumes
+- `estilo.css` — aparência igual em celular e computador
+- `volume‑1‑iniciante.html` — primeiros passos e segurança
+- `volume‑2‑avancado.html` — quadros, proteções e reparos
+- `volume‑3‑plano‑mestre.html` — instalações maiores, energia solar e negócio
+- `leia‑aqui.txt` — guia para adicionar imagens, áudios e provas
